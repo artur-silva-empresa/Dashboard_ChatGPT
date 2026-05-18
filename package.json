@@ -1,0 +1,11 @@
+{
+  "name":"dashboard-chatgpt",
+  "private":true,
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{
+    "dev":"vite",
+    "build":"vite build",
+    "deploy":"gh-pages -d dist"
+  }
+}
