@@ -1,2 +1,3 @@
-# Dashboard_ChatGPT
-Dashboard_ChatGPT
+# Dashboard Industrial de Tinturaria
+
+Projeto preparado para GitHub Pages.
